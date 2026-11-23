@@ -17,7 +17,7 @@ services:
 
   postgres:
     image: postgres:16
-    ports: ["5432:5432"]
+    ports: ["5433:5432"]
     environment:
       POSTGRES_USER: de_user
       POSTGRES_PASSWORD: de_pass
