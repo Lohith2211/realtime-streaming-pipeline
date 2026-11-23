@@ -1,0 +1,6 @@
+confluent-kafka
+faker
+pyspark==3.5.1
+streamlit
+psycopg2-binary
+pandas
